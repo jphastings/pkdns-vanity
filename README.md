@@ -13,7 +13,7 @@ Looking for a key with 'pkdns' at the start…
 
 ## Installing
 
-On a mac you can install with [homebrew](https://brew.sh):
+On a mac or linux you can install with [homebrew](https://brew.sh):
 
 ```sh
 brew install jphastings/tools/pkdns-vanity
